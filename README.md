@@ -22,7 +22,7 @@ Flex-Chat is an online chat web application built using the MERN (MongoDB, Expre
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Chirag-S-kotian/flex-chat.git`
+1. Clone the repository: `git clone https://github.com/tagging-danger/flex-chat.git`
 2. Navigate to the project directory: `cd flex-chat`
 3. Install dependencies for both the server and client:
    ```
